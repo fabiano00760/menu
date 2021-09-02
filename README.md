@@ -1,5 +1,4 @@
 # menu
-criação de menu
 # ola ! eu sou  Fabiano_silva
 
 - ✌  Sou estudante do curso de analise e desenvolvimento de sistema...
